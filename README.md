@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Making Andriod App.
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ph7738068@gmail.com
+- 📫 How to reach me harshilkumar.patel6@dcmail.ca
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have already Created one Android Application
 
